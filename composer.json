@@ -53,7 +53,6 @@
         "sylius/shipping-bundle": "^0.19",
         "sylius/taxation-bundle": "^0.19",
         "sylius/taxonomy-bundle": "^0.19",
-        "sylius/theme-bundle": "^0.19",
         "sylius/user-bundle": "^0.19",
         "sylius/variation-bundle": "^0.19",
         "sylius/association-bundle": "^0.19",
